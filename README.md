@@ -17,10 +17,11 @@ A menu-driven console mini project developed in standard C and mapped to the sup
 11. Save records permanently using file handling.
 
      
-## 🎨 Inventory Management System Flowchart
 
-![Inventory Management System Flowchart](./inventory-flowchart.png)
- 
+## 🎨 Inventory Management System – Flowchart
+
+![Inventory Management System Flowchart](./Inventory%20Management%20Flowchart.png)
+
 
     
 ## 📸 Project Screenshots
