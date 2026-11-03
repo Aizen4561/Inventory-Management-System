@@ -15,6 +15,7 @@ A menu-driven console mini project developed in standard C and mapped to the sup
 9. View inventory summary, total units and total stock value.
 10. View stock movement history.
 11. Save records permanently using file handling.
+
     
 ## 🎨 Inventory Management System – Flowchart
 
@@ -22,7 +23,15 @@ The following flowchart represents the complete working process of the Inventory
 
 ![Inventory Management System Flowchart](inventory-flowchart.png)
 
-     
+    
+
+
+
+
+
+
+
+
 ## 📸 Project Screenshots
 
 ### 1. Inventory Management System – Main Screen
