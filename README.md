@@ -20,7 +20,7 @@ A menu-driven console mini project developed in standard C and mapped to the sup
 ## 🎨 Inventory Management System Flowchart
 
 ![Inventory Management System Flowchart](./inventory-flowchart.png)
-
+ 
 
     
 ## 📸 Project Screenshots
