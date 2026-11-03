@@ -15,6 +15,15 @@ A menu-driven console mini project developed in standard C and mapped to the sup
 9. View inventory summary, total units and total stock value.
 10. View stock movement history.
 11. Save records permanently using file handling.
+     
+## 📸 Project Screenshots
+
+### 1. Inventory Management System – Main Screen
+![Main Screen](Screenshot%202026-11-03%20135448.png)
+
+### 2. Inventory Management System – Output
+![Project Output](Screenshot%202026-11-03%20135729.png)
+
 
 ## Project files
 
